@@ -24,7 +24,7 @@ diagnosed with Severe Diabetic Retinopathy (id = 3) will have its multi labels a
 Flipping the images horizontally . Flipping the images vertically . Fill mode = Constant.
 Random zooming of the images by 0.15.
 
-#Conclusion
+# Conclusion
 The paper presented a deep learning approach to detect diabetic
 retinopathy. The system utilizes a DenseNet powered training model, which
 can be utilized for quick identification of Diabetic Retinopathy. The system
